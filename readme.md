@@ -1,4 +1,4 @@
-# Prodia
+# Projek
 Nama : Muhamad Satrio
 
 Tech yang digunakan adalah NodeJS Express, PostgreSQL, dan Sequelize, Berikut adalah cara menjalankannya:
